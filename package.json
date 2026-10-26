@@ -1,0 +1,15 @@
+{
+  "name": "mrfa1n-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted assets for the MrFa1n GitHub profile README",
+  "scripts": {
+    "badges": "node scripts/generate-badges.mjs",
+    "stats": "node scripts/update-stats.mjs"
+  },
+  "devDependencies": {
+    "badge-maker": "^4.1.0",
+    "simple-icons": "^13.19.0"
+  }
+}

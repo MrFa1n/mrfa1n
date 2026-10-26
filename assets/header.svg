@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="50" viewBox="0 0 620 50" role="img" aria-label="Hi, I'm MrFa1n — Software Engineer, UI/UX &amp; DX Enthusiast, crafting clean code and smooth UX">
+  <title>MrFa1n — Software Engineer, UI/UX &amp; DX Enthusiast</title>
+  <style>
+    .line {
+      font-family: "Fira Code", Consolas, "Courier New", monospace;
+      font-size: 26px;
+      font-weight: 600;
+      fill: #24292f;
+      opacity: 0;
+      animation: typing 12s infinite;
+    }
+    @media (prefers-color-scheme: dark) {
+      .line { fill: #58a6ff; }
+    }
+    .line0 { animation-delay: 0s; }
+    .line1 { animation-delay: -3s; }
+    .line2 { animation-delay: -6s; }
+    .line3 { animation-delay: -9s; }
+    .caret { animation: blink 1s infinite; }
+    @keyframes typing {
+      0%   { opacity: 0; }
+      2%   { opacity: 1; }
+      23%  { opacity: 1; }
+      26%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+  </style>
+  <text class="line line0" x="20" y="34">Hi, I'm MrFa1n 👋<tspan class="caret">|</tspan></text>
+  <text class="line line1" x="20" y="34">Software Engineer<tspan class="caret">|</tspan></text>
+  <text class="line line2" x="20" y="34">UI/UX &amp; DX Enthusiast<tspan class="caret">|</tspan></text>
+  <text class="line line3" x="20" y="34">Crafting clean code &amp; smooth UX<tspan class="caret">|</tspan></text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" role="img">
+  <style>
+    .card-streak { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .bg-streak { fill: #f6f8fa; stroke: #d0d7de; }
+    .title-streak { fill: #24292f; font-weight: 700; font-size: 15px; }
+    .label-streak { fill: #57606a; font-size: 12px; }
+    .value-streak { fill: #24292f; font-weight: 700; font-size: 20px; }
+    .track-streak { fill: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .bg-streak { fill: #0d1117; stroke: #30363d; }
+      .title-streak { fill: #e6edf3; }
+      .label-streak { fill: #8b949e; }
+      .value-streak { fill: #e6edf3; }
+      .track-streak { fill: #30363d; }
+    }
+  </style>
+  <rect class="bg-streak" x="0.5" y="0.5" width="599" height="149" rx="10" stroke-width="1"/>
+  <g class="card-streak"><text x="100" y="90" text-anchor="middle" class="value-streak">0</text><text x="100" y="115" text-anchor="middle" class="label-streak">Total Contributions</text>
+    <text x="300" y="90" text-anchor="middle" class="value-streak">0</text><text x="300" y="115" text-anchor="middle" class="label-streak">Current Streak</text>
+    <text x="500" y="90" text-anchor="middle" class="value-streak">0</text><text x="500" y="115" text-anchor="middle" class="label-streak">Longest Streak</text></g>
+</svg>

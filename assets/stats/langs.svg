@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" role="img">
+  <style>
+    .card-langs { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .bg-langs { fill: #f6f8fa; stroke: #d0d7de; }
+    .title-langs { fill: #24292f; font-weight: 700; font-size: 15px; }
+    .label-langs { fill: #57606a; font-size: 12px; }
+    .value-langs { fill: #24292f; font-weight: 700; font-size: 20px; }
+    .track-langs { fill: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .bg-langs { fill: #0d1117; stroke: #30363d; }
+      .title-langs { fill: #e6edf3; }
+      .label-langs { fill: #8b949e; }
+      .value-langs { fill: #e6edf3; }
+      .track-langs { fill: #30363d; }
+    }
+  </style>
+  <rect class="bg-langs" x="0.5" y="0.5" width="299" height="189" rx="10" stroke-width="1"/>
+  <g class="card-langs"><text x="20" y="30" class="title-langs">Top Languages</text>
+    <text x="20" y="56" class="label-langs">PHP</text><rect x="90" y="46" width="180" height="8" rx="4" class="track-langs"/><rect x="90" y="46" width="96" height="8" rx="4" fill="#777BB4"/><text x="280" y="56" text-anchor="end" class="label-langs">53.1%</text>
+    <text x="20" y="80" class="label-langs">JavaScript</text><rect x="90" y="70" width="180" height="8" rx="4" class="track-langs"/><rect x="90" y="70" width="32" height="8" rx="4" fill="#F7DF1E"/><text x="280" y="80" text-anchor="end" class="label-langs">17.7%</text>
+    <text x="20" y="104" class="label-langs">Python</text><rect x="90" y="94" width="180" height="8" rx="4" class="track-langs"/><rect x="90" y="94" width="23" height="8" rx="4" fill="#3776AB"/><text x="280" y="104" text-anchor="end" class="label-langs">12.5%</text>
+    <text x="20" y="128" class="label-langs">CSS</text><rect x="90" y="118" width="180" height="8" rx="4" class="track-langs"/><rect x="90" y="118" width="18" height="8" rx="4" fill="#1572B6"/><text x="280" y="128" text-anchor="end" class="label-langs">10.2%</text>
+    <text x="20" y="152" class="label-langs">HTML</text><rect x="90" y="142" width="180" height="8" rx="4" class="track-langs"/><rect x="90" y="142" width="12" height="8" rx="4" fill="#E34F26"/><text x="280" y="152" text-anchor="end" class="label-langs">6.4%</text></g>
+</svg>

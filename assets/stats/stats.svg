@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="170" viewBox="0 0 300 170" role="img">
+  <style>
+    .card-stats { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .bg-stats { fill: #f6f8fa; stroke: #d0d7de; }
+    .title-stats { fill: #24292f; font-weight: 700; font-size: 15px; }
+    .label-stats { fill: #57606a; font-size: 12px; }
+    .value-stats { fill: #24292f; font-weight: 700; font-size: 20px; }
+    .track-stats { fill: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .bg-stats { fill: #0d1117; stroke: #30363d; }
+      .title-stats { fill: #e6edf3; }
+      .label-stats { fill: #8b949e; }
+      .value-stats { fill: #e6edf3; }
+      .track-stats { fill: #30363d; }
+    }
+  </style>
+  <rect class="bg-stats" x="0.5" y="0.5" width="299" height="169" rx="10" stroke-width="1"/>
+  <g class="card-stats"><text x="20" y="30" class="title-stats">GitHub Stats</text>
+    <text x="20" y="64" class="label-stats">Public Repos</text><text x="280" y="66" text-anchor="end" class="value-stats">11</text>
+    <text x="20" y="96" class="label-stats">Total Stars</text><text x="280" y="98" text-anchor="end" class="value-stats">0</text>
+    <text x="20" y="128" class="label-stats">Followers</text><text x="280" y="130" text-anchor="end" class="value-stats">1</text></g>
+</svg>
