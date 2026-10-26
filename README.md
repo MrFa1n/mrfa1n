@@ -84,7 +84,7 @@ Here are some selected tools where I focused heavily on seamless interactions an
 
 </div>
 
-<sup>Refreshed weekly by a <a href=".github/workflows/update-stats.yml">GitHub Action</a> running inside this repo — no third-party stats service is called when this page is viewed.</sup>
+<sup>Stats for this repository only, refreshed weekly by a <a href=".github/workflows/update-stats.yml">GitHub Action</a> running inside it — no third-party stats service, and no other repo, is ever queried.</sup>
 
 <br/>
 

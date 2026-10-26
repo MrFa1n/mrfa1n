@@ -15,8 +15,8 @@
     }
   </style>
   <rect class="bg-stats" x="0.5" y="0.5" width="299" height="169" rx="10" stroke-width="1"/>
-  <g class="card-stats"><text x="20" y="30" class="title-stats">GitHub Stats</text>
-    <text x="20" y="64" class="label-stats">Public Repos</text><text x="280" y="66" text-anchor="end" class="value-stats">11</text>
-    <text x="20" y="96" class="label-stats">Total Stars</text><text x="280" y="98" text-anchor="end" class="value-stats">0</text>
-    <text x="20" y="128" class="label-stats">Followers</text><text x="280" y="130" text-anchor="end" class="value-stats">1</text></g>
+  <g class="card-stats"><text x="20" y="30" class="title-stats">Repo Stats</text>
+    <text x="20" y="64" class="label-stats">Stars</text><text x="280" y="66" text-anchor="end" class="value-stats">0</text>
+    <text x="20" y="96" class="label-stats">Forks</text><text x="280" y="98" text-anchor="end" class="value-stats">0</text>
+    <text x="20" y="128" class="label-stats">Open Issues</text><text x="280" y="130" text-anchor="end" class="value-stats">0</text></g>
 </svg>

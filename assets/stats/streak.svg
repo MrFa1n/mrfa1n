@@ -15,7 +15,7 @@
     }
   </style>
   <rect class="bg-streak" x="0.5" y="0.5" width="599" height="149" rx="10" stroke-width="1"/>
-  <g class="card-streak"><text x="100" y="90" text-anchor="middle" class="value-streak">0</text><text x="100" y="115" text-anchor="middle" class="label-streak">Total Contributions</text>
-    <text x="300" y="90" text-anchor="middle" class="value-streak">0</text><text x="300" y="115" text-anchor="middle" class="label-streak">Current Streak</text>
-    <text x="500" y="90" text-anchor="middle" class="value-streak">0</text><text x="500" y="115" text-anchor="middle" class="label-streak">Longest Streak</text></g>
+  <g class="card-streak"><text x="100" y="90" text-anchor="middle" class="value-streak">5</text><text x="100" y="115" text-anchor="middle" class="label-streak">Commits (last 400d)</text>
+    <text x="300" y="90" text-anchor="middle" class="value-streak">1</text><text x="300" y="115" text-anchor="middle" class="label-streak">Current Streak</text>
+    <text x="500" y="90" text-anchor="middle" class="value-streak">1</text><text x="500" y="115" text-anchor="middle" class="label-streak">Longest Streak</text></g>
 </svg>

@@ -23,7 +23,8 @@ jobs:
       - name: Generate stats SVGs
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: MrFa1n
+          REPO_OWNER: MrFa1n
+          REPO_NAME: mrfa1n
         run: node scripts/update-stats.mjs
 
       - name: Commit changes if any
