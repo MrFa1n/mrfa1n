@@ -38,8 +38,8 @@ Here are some selected tools where I focused heavily on seamless interactions an
 
 | Project                                         | Description                                                                                                                                                                        | Stack                           |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
-| [**planningPokerLite**](https://github.com)     | 🃏 Smart and elegant serverless Planning Poker. Features built-in timers, roles, and real-time syncing magic for agile teams without backend overhead.                             | `JavaScript` `Realtime` `UI/UX` |
 | [**ArcBookmarksConverter**](https://github.com) | 🗺️ A lightweight utility to convert Arc browser bookmarks (`StorableSidebar.json`) into a universal HTML format, allowing flawless imports into Chrome, Firefox, Safari, and Edge. | `Python` `CLI` `Data Parsing`   |
+| [**planningPokerLite**](https://github.com)     | 🃏 Smart and elegant serverless Planning Poker. Features built-in timers, roles, and real-time syncing magic for agile teams without backend overhead.                             | `JavaScript` `Realtime` `UI/UX` |
 | [**fake-press**](https://github.com)            | ⚡ A playground dedicated to UI micro-interactions, custom animations, and handling element active/pressed states.                                                                 | `CSS` `Design Tokens`           |
 
 ---
