@@ -5,8 +5,7 @@
   "type": "module",
   "description": "Self-hosted assets for the MrFa1n GitHub profile README",
   "scripts": {
-    "badges": "node scripts/generate-badges.mjs",
-    "stats": "node scripts/update-stats.mjs"
+    "badges": "node scripts/generate-badges.mjs"
   },
   "devDependencies": {
     "badge-maker": "^4.1.0",

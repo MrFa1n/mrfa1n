@@ -71,23 +71,6 @@ Here are some selected tools where I focused heavily on seamless interactions an
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="assets/stats/stats.svg" alt="GitHub Stats" height="170" />
-<img src="assets/stats/langs.svg" alt="Top Languages" height="170" />
-
-<br/>
-
-<img src="assets/stats/streak.svg" alt="GitHub Streak" />
-
-</div>
-
-<sup>Stats for this repository only, refreshed weekly by a <a href=".github/workflows/update-stats.yml">GitHub Action</a> running inside it — no third-party stats service, and no other repo, is ever queried.</sup>
-
-<br/>
-
 ## 📫 Connect With Me
 
 <div align="center">
